@@ -1,4 +1,4 @@
 class Song
   @@all = []
-  attr-_accessor :name, :artist, :genre
+  attr-accessor :name, :artist, :genre
 end
